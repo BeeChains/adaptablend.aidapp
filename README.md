@@ -5,5 +5,6 @@ some of our patterns, we have not fully developed this endeavor but here is the 
 
 - [AdaptaBlend AIdapp - Inner I Camo](https://innerinetwork.gumroad.com/l/gtvbie)
 - [AdaptaBlend AIdapp Inner I Neural Network Camo](https://innerinetwork.gumroad.com/l/lnnxfx)
+- [Inner I AIdapp AdaptaBlend Men's Rash Guard](https://innerinetwork.gumroad.com/l/sornn)
 
   [Aritcle](https://innerinetcompany.com/2023/07/01/revealing-adaptablend-aidapp-adaptive-neural-network-camouflage/)
