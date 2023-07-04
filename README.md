@@ -1,7 +1,7 @@
 # adaptablend.aidapp
-The foundation of AIdapp is a Top-level Handshake Root Domain. AdaptaBlend is a neural network algorithm that continuously analyzes the surrounding environment and adjusts the camouflage pattern in real-time.
+The foundation of AIdapp is a Top-level Handshake Root Domain. AdaptaBlend is the name for the training results of our ICCAN(Intelligent Camouflage Creative Adversarial Network) dataset and the brand name of our revolutionary camouflage products and patterns. Futher advancements would include a neural network algorithm that continuously analyzes the surrounding environment and adjusts the camouflage pattern in real-time.
 
-some of our patterns, we have not fully developed this endeavor but here is the ROOT!
+Here are some of our revolutionary patterns, here is the ROOT!
 
 - [AdaptaBlend AIdapp - Inner I Camo](https://innerinetwork.gumroad.com/l/gtvbie)
 - [AdaptaBlend AIdapp Inner I Neural Network Camo](https://innerinetwork.gumroad.com/l/lnnxfx)
