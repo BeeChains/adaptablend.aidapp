@@ -7,6 +7,8 @@ The foundation of AIdapp is a Top-level Handshake Root Domain. AdaptaBlend is th
 Here are some of our revolutionary patterns, here is the ROOT!
 These camouflage patterns are generated using various Artificial Intelligence platforms.
 
+# [Inner I Network Products on Gumroad](https://innerinetwork.gumroad.com)
+
 - [AdaptaBlend AIdapp - Inner I Camo](https://innerinetwork.gumroad.com/l/gtvbie)
 - [AdaptaBlend AIdapp Inner I Neural Network Camo](https://innerinetwork.gumroad.com/l/lnnxfx)
 - [Inner I AIdapp AdaptaBlend Men's Rash Guard](https://innerinetwork.gumroad.com/l/sornn)
