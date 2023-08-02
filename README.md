@@ -1,6 +1,9 @@
 # adaptablend.aidapp
 The foundation of AIdapp is a Top-level Handshake Root Domain. AdaptaBlend is the name for the training results of our ICCAN(Intelligent Camouflage Creative Adversarial Network) dataset and the brand name of our revolutionary camouflage products and patterns. Futher advancements would include a neural network algorithm that continuously analyzes the surrounding environment and adjusts the camouflage pattern in real-time.
 
+# Your Brand + Inner I Camouflage Templates = Our Products
+## Use our foundations or patterens with YOUR LOGOS and BUSINESS NAME [Contact Inner I](mailto:i@innerinetcompany.com)
+
 Here are some of our revolutionary patterns, here is the ROOT!
 These camouflage patterns are generated using various Artificial Intelligence platforms.
 
